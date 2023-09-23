@@ -14,20 +14,14 @@ nav:
 {%
   include button.html
   type="email"
-  text="gu@njnu.edu.cn"
+  text="gu [at] njnu.edu.cn"
   link="gu@njnu.edu.cn"
 %}
 {%
   include button.html
-  type="phone"
-  text="136-7516-1540"
-  link="+86-136-7516-1540"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/南京师范大学仙林校区/@32.1145815,118.9135141,17z/data=!3m1!4b1!4m6!3m5!1s0x35b5ec3014a1e7f5:0x197121e642a7bf08!8m2!3d32.114577!4d118.916089!16s%2Fg%2F1vy7dm_q?entry=ttu"
+  type="Office"
+  text="Office 305, Mingli Hall, Xianlin Campus (Nanjing, Jiangsu)"
+  link="https://www.google.com/maps/place/32°05'59.4%22N+118°54'36.8%22E/@32.0999703,118.9100622,20.39z/data=!4m7!1m2!2m1!1z5Y2X5Lqs5biI6IyD5aSn5a2m5LuZ5p6X5qCh5Yy65piO55CG5qW8!3m3!8m2!3d32.099843!4d118.910207?entry=ttu"
 %}
 
 {% include section.html %}

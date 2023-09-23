@@ -11,5 +11,7 @@ links:
 ---
 
 
-I am a Professor and Vice Dean in School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University. My primary research interests is AI for Science. I have published more than 70 papers .
+I am a Professor and Vice Dean in School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University. My primary research interests is AI for Science. I have published more than 70 papers.
+
+
 
