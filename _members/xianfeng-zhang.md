@@ -2,6 +2,7 @@
 name: Xianfeng Zhang
 image: images/members/xianfeng-zhang.jpeg
 # description: Lead Programmer
+aliases: X Zhang, Xf Zhang, Xianfeng Zhang
 role: master
 group: alum
 links:

@@ -2,6 +2,7 @@
 name: Xiaojian Chen
 image: images/members/xiaojian-chen.jpeg
 role: undergrad
+aliases: X Chen, Xj Chen, Xiaojian Chen
 group: alum
 links:
   email: 19190232@njnu.edu.cn

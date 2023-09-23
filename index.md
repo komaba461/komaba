@@ -48,7 +48,7 @@ We work to further the larger community by making our data and code freely avail
 
 {%
   include button.html
-  link="projects"
+  link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -69,7 +69,7 @@ We work to further the larger community by making our data and code freely avail
 
 {% capture text %}
 
-We regularly offer two courses: [CS 482/682](https://github.com/komaba461/C2022FALL) C Language Programming Course and [CS 486/686](https://github.com/komaba461/DB2022FALL) Database Principle and Application Course.
+We regularly offer two courses: [1008-0919-2204](https://github.com/komaba461/C2022FALL) C Language Programming Course and [1008-0919-3011](https://github.com/komaba461/DB2022FALL) Database Principle and Application Course.
 
 <!-- {%
   include button.html
