@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: komaba461
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: KOMABA
+subtitle: Knowledge-Oriented Machine Learning and Artificial intelligence for Big data and Analytics Lab
+# description: This is interesting lab.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@komaba461.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: komaba@njnu.edu.cn
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
   github: komaba461
-  twitter: komaba461
-  youtube: komaba461
+  # twitter: komaba461
+  # youtube: komaba461
 
 ### jekyll settings
 

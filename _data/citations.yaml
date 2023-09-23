@@ -1,133 +1,94 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
+- id: doi:-
+  title: Parsing of Passive Structure in Chinese and Its Application in CAMR
+  authors: Kang Hu, Weiguang Qu, Tingxin Wei, Junsheng Zhou, Bin Li, Yanhui Gu
+  publisher: Proceedings of the 22nd Chinese National Conference on Computational Linguistics
+  date: '2023/8'
+  type: article
+  link: https://aclanthology.org/2023.ccl-1.45/
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+
+- id: doi:10.1609/aaai.v37i13.27052
+  title: 'HaPPy: Harnessing the Wisdom from Multi-Perspective Graphs for Protein-Ligand Binding Affinity Prediction'
+  authors: 
+  - Xianfeng Zhang
+  - Yanhui Gu
+  - Guandong Xu
+  - Yafei Li
+  - Jinlan Wang
+  - Zhenglu Yang
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2023-09-06'
+  type: paper
+  tags:
+  - drug discovery
+  image: images/research/happy.png
+  buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Code
+    link: https://github.com/Jthy-af/HaPPy
+  # - type: website
+  #   link: https://github.com/Jthy-af/HaPPy
+  link: https://doi.org/10.1609/aaai.v37i13.27052
+  # repo: greenelab/meta-review
+  # orcid: 0000-0002-4655-3773
+  plugin: source.py
+  file: source.yaml
+
+- id: doi:-
+  title: 'Automatic Recognition of Chinese Passive Sentences Based on Feature Fusion'
+  authors: Kang Hu, Weiguang Qu, Tingxin Wei, Junsheng Zhou, Yanhui Gu, Bin Li
+  publisher: Proceedings of the 21st Chinese National Conference on Computational Linguistics
+  date: '2022/10'
+  link: https://aclanthology.org/2022.ccl-1.35
+  plugin: sources.py
+  file: sources.yaml
+
+- id: doi:10.1007/s00138-020-01152-8
+  title: 'A weighted feature transfer gan for medical image synthesis'
+  authors: Shuaizhen Yao, Jianhua Tan, Yi Chen, Yanhui Gu
+  publisher: Machine Vision and Applications
+  date: '2020/11/21'
+  link: https://doi.org/10.1007/s00138-020-01152-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00138-020-01152-8/MediaObjects/138_2020_1152_Fig4_HTML.jpg?
+  plugin: sources.py
+  file: sources.yaml
+
+- id: 10.1021/acs.jpclett.9b03392
+  title: 'Activity origin and design principles for oxygen reduction on dual-metal-site catalysts: a combined density functional theory and machine learning study'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Xiaorong Zhu, Jiaxian Yan, Min Gu, Tianyang Liu, Yafei Dai, Yanhui Gu, Yafei Li
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2019/12/2'
+  link: https://doi.org/10.1021/acs.jpclett.9b03392
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  # description: test
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b03392/asset/images/medium/jz9b03392_0007.gif
+  buttons:
+  # - type: manubot
+  #   link: https://greenelab.github.io/meta-review/
+  # - type: source
+  #   text: Manuscript Source
+  #   link: https://github.com/greenelab/meta-review
+  # - type: website
+  #   link: http://manubot.org/
+  tags:
+  # - open science
+  # - collaboration
+
+- id: doi:10.1007/978-3-031-24340-0_42
+  title: 'EAGLE: An Enhanced Attention-Based Strategy by Generating Answers from Learning Questions to a Remote Sensing Image'
+  authors: Yeyang Zhou, Yixin Chen, Yimin Chen, Shunlong Ye, Mingxin Guo, Ziqi Sha, Heyu Wei, Yanhui Gu, Junsheng Zhou, Weiguang Qu  
+  publisher: International Conference on Computational Linguistics and Intelligent Text Processing
+  date: '2019/4/7'
+  link: https://doi.org/10.1007/978-3-031-24340-0_42
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-24340-0_42/MediaObjects/543764_1_En_42_Fig1_HTML.png?
   plugin: sources.py
   file: sources.yaml

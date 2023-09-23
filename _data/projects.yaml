@@ -1,47 +1,54 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: AI for Science
+  subtitle:  
   group: featured
-  image: images/photo.jpg
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.9b03392/asset/images/medium/jz9b03392_0007.gif
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: 'We currently work on AI for Science, 
+  with a particular focus on AI-powered drug discovery and generative AI for biology and chemistry. 
+  We also develop next-generation AI for antibody design and protein therapeutics discovery.'
+  # repo: greenelab/lab-website-template
   tags:
     - resource
+    - publication
+    - website
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Natural Language Processing
+  subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11280-018-0542-9/MediaObjects/11280_2018_542_Fig1_HTML.gif?
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We try to explore some NLP application to better understand and generate discerte symbols including text, small molecules and proteins. 
+  # repo: greenelab/lab-website-template
   tags:
     - resource
+    - website
+    - publication
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Data Mining
+  subtitle: 
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-24340-0_42/MediaObjects/543764_1_En_42_Fig1_HTML.png?
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We focus on big data analytics, especially for the protein, biomedical image, text and so on.
+  # repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Machine Learning
+  subtitle: 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0263224121009519-gr3.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We develop machine learning models for medial image, social network and so on.
+  # repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Power Aware Database System
+  subtitle: 
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-50496-4_5/MediaObjects/437010_1_En_5_Fig1_HTML.gif?
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Exploration on effectiveness and efficiency of similar sentence matching in the incremental database.
+  # repo: greenelab/lab-website-template
   tags:
     - software
+    - publication
