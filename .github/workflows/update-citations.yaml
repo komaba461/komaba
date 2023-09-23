@@ -19,7 +19,7 @@ permissions:
   pull-requests: write
 
 env:
-  FORCE_COLOR: false
+  FORCE_COLOR: true
   GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
 
 jobs:
