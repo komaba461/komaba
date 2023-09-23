@@ -5,8 +5,9 @@ image: images/members/chuyue-liao.jpeg
 role: undergrad
 group: 
 links:
-  email: 1921xx@njnu.edu.cn
-  twitter: xxx
+  email: 19210137@njnu.edu.cn
+  github: chuyueliao1
+  # twitter: xxx
 ---
 
-Chuyue Liao now is a undergraduate student.
+Chuyue Liao now is a happy undergraduate student.
