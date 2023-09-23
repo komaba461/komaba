@@ -20,9 +20,9 @@ permissions:
 
 env:
   FORCE_COLOR: true
-  GOOGLE_SCHOLAR_API_KEY: ${{ 5f77ed643f573d19855f719d1512ce025e38dde2ce9a4a8856b0912c1d21bfaf }}
-  #something wrong in env var setting, so I write the API directly, need you to solve this issue. (Jerry) 
+  # something wrong in env var setting, so I write the API directly, need you to solve this issue. (Jerry) 
   # GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
+  GOOGLE_SCHOLAR_API_KEY: ${{ 5f77ed643f573d19855f719d1512ce025e38dde2ce9a4a8856b0912c1d21bfaf }}
 
 jobs:
   update-citations:
