@@ -574,11 +574,22 @@
   - Z Yang
   publisher: "Proceedings of the AAAI Conference on Artificial Intelligence 37 (13),\
     \ 16384 \u2026, 2023"
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RGFaLdJalmkC
+  date: '2023-09-06'
+  link: https://doi.org/10.1609/aaai.v37i13.27052
   gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/research/happy.png
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/Jthy-af/HaPPy
+  - type: website
+    link: null
+  tags:
+  - drug design
+  - Ai for Science
 - id: byG9xLMAAAAJ:ns9cj8rnVeAC
   title: 'Seq2EG: a novel and effective event graph parsing approach for event extraction'
   authors:

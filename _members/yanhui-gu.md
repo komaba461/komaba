@@ -5,7 +5,7 @@ role: pi
 aliases: Yh Gu, Y Gu, Yanhui GU
 links:
   home-page: https://komaba461.github.io/gu/
-  google-scholar: byG9xLMAAAAJ&hl=zh-CN&oi=ao
+  google-scholar: byG9xLMAAAAJ
   email: gu@njnu.edu.cn
   orcid: 0000-0002-8838-3186
   dblp: 24/9923

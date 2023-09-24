@@ -13,7 +13,7 @@ In the Knowledge-Oriented Machine Learning and Artificial intelligence for Big d
 
 ## Highlighted
 
-{% include citation.html lookup="HaPPy: Harnessing the Wisdom from Multi-Perspective Graphs for Protein-Ligand Binding Affinity Prediction" style="rich" %}
+{% include citation.html lookup="HaPPy: harnessing the wisdom from multi-perspective graphs for protein-ligand binding affinity prediction (student abstract)" style="rich" %}
 
 
 
@@ -25,4 +25,4 @@ In the Knowledge-Oriented Machine Learning and Artificial intelligence for Big d
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="summary" %}
+{% include list.html data="citations" component="citation" style="concise" %}
