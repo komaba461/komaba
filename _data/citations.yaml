@@ -106,6 +106,19 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:4JMBOYKVnBMC
+  title: Medical image inpainting with edge and structure priors
+  authors:
+  - Q Wang
+  - Y Chen
+  - N Zhang
+  - Y Gu
+  publisher: Measurement 185, 110027, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4JMBOYKVnBMC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:hqOjcs7Dif8C
   title: 'Toast: A topic-oriented tag-based recommender system'
   authors:
@@ -118,19 +131,6 @@
     \ Conference \u2026, 2011"
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:hqOjcs7Dif8C
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:4JMBOYKVnBMC
-  title: Medical image inpainting with edge and structure priors
-  authors:
-  - Q Wang
-  - Y Chen
-  - N Zhang
-  - Y Gu
-  publisher: Measurement 185, 110027, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4JMBOYKVnBMC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -180,22 +180,6 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:UeHWp8X0CEIC
-  title: A fast approach for semantic similar short texts retrieval
-  authors:
-  - Y Gu
-  - Z Yang
-  - J Zhou
-  - W Qu
-  - J Wei
-  - X Shi
-  publisher: "Proceedings of the 54th Annual Meeting of the Association for Computational\
-    \ \u2026, 2016"
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:UeHWp8X0CEIC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:HDshCWvjkbEC
   title: An element-aware multi-representation model for law article prediction
   authors:
@@ -224,6 +208,36 @@
     \ \u2026, 2016"
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:qjMakFHDy7sC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:UeHWp8X0CEIC
+  title: A fast approach for semantic similar short texts retrieval
+  authors:
+  - Y Gu
+  - Z Yang
+  - J Zhou
+  - W Qu
+  - J Wei
+  - X Shi
+  publisher: "Proceedings of the 54th Annual Meeting of the Association for Computational\
+    \ \u2026, 2016"
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:UeHWp8X0CEIC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:j3f4tGmQtD8C
+  title: Exploiting Rich Event Representation to Improve Event Causality Recognition
+  authors:
+  - G Jin
+  - J Zhou
+  - W Qu
+  - Y Long
+  - Y Gu
+  publisher: INTELLIGENT AUTOMATION AND SOFT COMPUTING 30 (1), 161-173, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:j3f4tGmQtD8C
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -281,20 +295,6 @@
     \ \u2026, 2015"
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4DMP91E08xMC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:j3f4tGmQtD8C
-  title: Exploiting Rich Event Representation to Improve Event Causality Recognition
-  authors:
-  - G Jin
-  - J Zhou
-  - W Qu
-  - Y Long
-  - Y Gu
-  publisher: INTELLIGENT AUTOMATION AND SOFT COMPUTING 30 (1), 161-173, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:j3f4tGmQtD8C
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -526,6 +526,20 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:RYcK_YlVTxYC
+  title: "A Multi-perspective Model for Protein\u2013Ligand-Binding Affinity Prediction"
+  authors:
+  - X Zhang
+  - Y Li
+  - J Wang
+  - G Xu
+  - Y Gu
+  publisher: 'Interdisciplinary Sciences: Computational Life Sciences, 1-14, 2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RYcK_YlVTxYC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:J_g5lzvAfSwC
   title: "\u6C49\u8BED\u88AB\u52A8\u7ED3\u6784\u89E3\u6790\u53CA\u5176\u5728 CAMR\
     \ \u4E2D\u7684\u5E94\u7528\u7814\u7A76 (Parsing of Passive Structure in Chinese\
@@ -680,6 +694,19 @@
     2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:isC4tDSrTZIC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:lSLTfruPkqcC
+  title: "Chinese Lexical Semantics: 22nd Workshop, CLSW 2021, Nanjing, China, May\
+    \ 15\u201316, 2021, Revised Selected Papers, Part I"
+  authors:
+  - M Dong
+  - Y Gu
+  - JF Hong
+  publisher: Springer Nature, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:lSLTfruPkqcC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
