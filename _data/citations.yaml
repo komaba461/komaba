@@ -60,6 +60,19 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:TQgYirikUcIC
+  title: A weighted feature transfer gan for medical image synthesis
+  authors:
+  - S Yao
+  - J Tan
+  - Y Chen
+  - Y Gu
+  publisher: Machine Vision and Applications 32 (1), 22, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:TQgYirikUcIC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:u-x6o8ySG0sC
   title: A multi-attention based neural network with external knowledge for story
     ending predicting task
@@ -77,16 +90,16 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:TQgYirikUcIC
-  title: A weighted feature transfer gan for medical image synthesis
+- id: byG9xLMAAAAJ:4JMBOYKVnBMC
+  title: Medical image inpainting with edge and structure priors
   authors:
-  - S Yao
-  - J Tan
+  - Q Wang
   - Y Chen
+  - N Zhang
   - Y Gu
-  publisher: Machine Vision and Applications 32, 1-11, 2021
+  publisher: Measurement 185, 110027, 2021
   date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:TQgYirikUcIC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4JMBOYKVnBMC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -103,19 +116,6 @@
   publisher: World Wide Web 21, 1705-1719, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:eQOLeE2rZwMC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:4JMBOYKVnBMC
-  title: Medical image inpainting with edge and structure priors
-  authors:
-  - Q Wang
-  - Y Chen
-  - N Zhang
-  - Y Gu
-  publisher: Measurement 185, 110027, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4JMBOYKVnBMC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -211,6 +211,23 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:qUcmZB5y_30C
+  title: 'From text to graph: a general transition-based AMR parsing using neural
+    network'
+  authors:
+  - M Gu
+  - Y Gu
+  - W Luo
+  - G Xu
+  - Z Yang
+  - J Zhou
+  - W Qu
+  publisher: Neural Computing and Applications 33, 6009-6025, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:qUcmZB5y_30C
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:UeHWp8X0CEIC
   title: A fast approach for semantic similar short texts retrieval
   authors:
@@ -227,17 +244,45 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:4DMP91E08xMC
+  title: A graph-based approach for semantic similar word retrieval
+  authors:
+  - Y Wang
+  - Y Gu
+  - J Zhou
+  - W Qu
+  publisher: "2015 International Conference on Behavioral, Economic and Socio-cultural\
+    \ \u2026, 2015"
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4DMP91E08xMC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:j3f4tGmQtD8C
-  title: Exploiting Rich Event Representation to Improve Event Causality Recognition
+  title: Exploiting rich event representation to improve event causality recognition
   authors:
   - G Jin
   - J Zhou
   - W Qu
   - Y Long
   - Y Gu
-  publisher: INTELLIGENT AUTOMATION AND SOFT COMPUTING 30 (1), 161-173, 2021
+  publisher: Intelligent Automation and Soft Computing 29 (3), 161-173, 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:j3f4tGmQtD8C
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:WF5omc3nYNoC
+  title: An effective joint framework for document summarization
+  authors:
+  - M Gui
+  - Z Zhang
+  - Z Yang
+  - Y Gu
+  - G Xu
+  publisher: Companion Proceedings of the The Web Conference 2018, 121-122, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:WF5omc3nYNoC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -255,6 +300,23 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:hC7cP41nSMkC
+  title: Improving AMR parsing by exploiting the dependency parsing as an auxiliary
+    task
+  authors:
+  - T Wu
+  - J Zhou
+  - W Qu
+  - Y Gu
+  - B Li
+  - H Zhong
+  - Y Long
+  publisher: Multimedia Tools and Applications 80, 30827-30838, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:hC7cP41nSMkC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:dhFuZR0502QC
   title: Neural network based deep transfer learning for cross-domain dependency parsing
   authors:
@@ -267,34 +329,6 @@
     \ ICAIS \u2026, 2020"
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:dhFuZR0502QC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:WF5omc3nYNoC
-  title: An Effective Joint Framework for Document Summarization
-  authors:
-  - M Gui
-  - Z Zhang
-  - Z Yang
-  - Y Gu
-  - G Xu
-  publisher: Companion Proceedings of the The Web Conference 2018, 121-122, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:WF5omc3nYNoC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:4DMP91E08xMC
-  title: A graph-based approach for semantic similar word retrieval
-  authors:
-  - Y Wang
-  - Y Gu
-  - J Zhou
-  - W Qu
-  publisher: "2015 International Conference on Behavioral, Economic and Socio-cultural\
-    \ \u2026, 2015"
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:4DMP91E08xMC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -324,27 +358,40 @@
   - Y Wen
   - X Chen
   - Y Gu
-  publisher: "2017 International Conference on Behavioral, Economic, Socio-cultural\
+  publisher: "2017 International Conference on Behavioral, Economic, Socio-Cultural\
     \ \u2026, 2017"
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:5nxA0vEk-isC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:qUcmZB5y_30C
-  title: 'From text to graph: a general transition-based AMR parsing using neural
-    network'
+- id: byG9xLMAAAAJ:_FxGoFyzp5QC
+  title: Towards effective recommendation in a social annotation system through group
+    extraction
   authors:
-  - M Gu
-  - Y Gu
-  - W Luo
-  - G Xu
-  - Z Yang
-  - J Zhou
+  - Y GU
+  - Z YANG
+  - M KITSUREGAWA
+  publisher: 2011-12-01]. http://db-event. jpn. org/deim2011/proceedings/pdf/f96.
+    pdf, 0
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:_FxGoFyzp5QC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:RHpTSmoSYBkC
+  title: A survey of Chinese anaphora resolution
+  authors:
+  - S Li
   - W Qu
-  publisher: Neural Computing and Applications 33, 6009-6025, 2021
+  - T Wei
+  - J Zhou
+  - Y Gu
+  - B Li
+  publisher: "Artificial Intelligence and Security: 7th International Conference,\
+    \ ICAIS \u2026, 2021"
   date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:qUcmZB5y_30C
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RHpTSmoSYBkC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -382,17 +429,51 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:_FxGoFyzp5QC
-  title: Towards effective recommendation in a social annotation system through group
-    extraction
+- id: byG9xLMAAAAJ:RYcK_YlVTxYC
+  title: "A Multi-perspective Model for Protein\u2013Ligand-Binding Affinity Prediction"
   authors:
-  - Y GU
-  - Z YANG
-  - M KITSUREGAWA
-  publisher: 2011-12-01]. http://db-event. jpn. org/deim2011/proceedings/pdf/f96.
-    pdf, 0
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:_FxGoFyzp5QC
+  - X Zhang
+  - Y Li
+  - J Wang
+  - G Xu
+  - Y Gu
+  publisher: 'Interdisciplinary Sciences: Computational Life Sciences 15 (4), 696-709,
+    2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RYcK_YlVTxYC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:J_g5lzvAfSwC
+  title: "\u6C49\u8BED\u88AB\u52A8\u7ED3\u6784\u89E3\u6790\u53CA\u5176\u5728 CAMR\
+    \ \u4E2D\u7684\u5E94\u7528\u7814\u7A76 (Parsing of Passive Structure in Chinese\
+    \ and Its Application in CAMR)"
+  authors:
+  - K Hu
+  - W Qu
+  - T Wei
+  - J Zhou
+  - B Li
+  - Y Gu
+  publisher: "Proceedings of the 22nd Chinese National Conference on Computational\
+    \ \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:J_g5lzvAfSwC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:O3NaXMp0MMsC
+  title: A High-Frequency Focused Network for Lightweight Single Image Super-Resolution
+  authors:
+  - X Weng
+  - Y Chen
+  - Z Zheng
+  - Y Gu
+  - J Zhou
+  - Y Zhang
+  publisher: arXiv preprint arXiv:2303.11701, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:O3NaXMp0MMsC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -413,20 +494,19 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:hC7cP41nSMkC
-  title: Improving AMR parsing by exploiting the dependency parsing as an auxiliary
-    task
+- id: byG9xLMAAAAJ:_Qo2XoVZTnwC
+  title: A review on named entity recognition in Chinese medical text
   authors:
-  - T Wu
-  - J Zhou
+  - L Zhou
   - W Qu
+  - T Wei
+  - J Zhou
   - Y Gu
   - B Li
-  - H Zhong
-  - Y Long
-  publisher: Multimedia Tools and Applications 80, 30827-30838, 2021
+  publisher: "Advances in Artificial Intelligence and Security: 7th International\
+    \ \u2026, 2021"
   date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:hC7cP41nSMkC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:_Qo2XoVZTnwC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -511,6 +591,23 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: byG9xLMAAAAJ:vV6vV6tmYwMC
+  title: Sense Tagging Unknown Chinese Words with Word Embedding
+  authors:
+  - W Bai
+  - T Wei
+  - F Meng
+  - M Gu
+  - X Tang
+  - Y Gu
+  - W Qu
+  publisher: "Chinese Language Resources: Data Collection, Linguistic Analysis, Annotation\
+    \ \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:vV6vV6tmYwMC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:BqipwSGYUEgC
   title: Semi-supervised semantic segmentation with multi-reliability and multi-level
     feature augmentation
@@ -526,35 +623,63 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:RYcK_YlVTxYC
-  title: "A Multi-perspective Model for Protein\u2013Ligand-Binding Affinity Prediction"
+- id: byG9xLMAAAAJ:2P1L_qKh6hAC
+  title: 'ExpT: Online Action Detection via Exemplar-Enhanced Transformer for Secondary
+    School Experimental Evaluation'
   authors:
-  - X Zhang
-  - Y Li
-  - J Wang
-  - G Xu
+  - H Yuan
+  - Z Zheng
   - Y Gu
-  publisher: 'Interdisciplinary Sciences: Computational Life Sciences, 1-14, 2023'
+  - J Zhou
+  - Y Chen
+  publisher: International Conference on Computer Science and Education, 347-356,
+    2023
   date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RYcK_YlVTxYC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:2P1L_qKh6hAC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:J_g5lzvAfSwC
-  title: "\u6C49\u8BED\u88AB\u52A8\u7ED3\u6784\u89E3\u6790\u53CA\u5176\u5728 CAMR\
-    \ \u4E2D\u7684\u5E94\u7528\u7814\u7A76 (Parsing of Passive Structure in Chinese\
-    \ and Its Application in CAMR)"
+- id: byG9xLMAAAAJ:70eg2SAEIzsC
+  title: 'MAgic: A Morphable Attention Based Algal Tiny Object Detection Model'
   authors:
-  - K Hu
-  - W Qu
-  - T Wei
-  - J Zhou
-  - B Li
+  - S Yuan
+  - N Peng
+  - Z Shi
   - Y Gu
-  publisher: "Proceedings of the 22nd Chinese National Conference on Computational\
-    \ \u2026, 2023"
+  - B Sun
+  publisher: "2023 10th International Conference on Behavioural and Social Computing\
+    \ (BESC \u2026, 2023"
   date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:J_g5lzvAfSwC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:70eg2SAEIzsC
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:35N4QoGY0k4C
+  title: Decoupling Teaching Ability in Meta Knowledge Distillation
+  authors:
+  - H Xia
+  - S Guo
+  - F Xiang
+  - S Miao
+  - Y Gu
+  publisher: "2023 10th International Conference on Behavioural and Social Computing\
+    \ (BESC \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:35N4QoGY0k4C
+  gsid: byG9xLMAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: byG9xLMAAAAJ:ns9cj8rnVeAC
+  title: 'Seq2EG: a novel and effective event graph parsing approach for event extraction'
+  authors:
+  - H Sun
+  - J Zhou
+  - L Kong
+  - Y Gu
+  - W Qu
+  publisher: Knowledge and Information Systems 65 (10), 4273-4294, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:ns9cj8rnVeAC
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -604,35 +729,6 @@
   tags:
   - drug design
   - Ai for Science
-- id: byG9xLMAAAAJ:ns9cj8rnVeAC
-  title: 'Seq2EG: a novel and effective event graph parsing approach for event extraction'
-  authors:
-  - H Sun
-  - J Zhou
-  - L Kong
-  - Y Gu
-  - W Qu
-  publisher: Knowledge and Information Systems, 1-22, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:ns9cj8rnVeAC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:O3NaXMp0MMsC
-  title: A High-Frequency Focused Network for Lightweight Single Image Super-Resolution
-  authors:
-  - X Weng
-  - Y Chen
-  - Z Zheng
-  - Y Gu
-  - J Zhou
-  - Y Zhang
-  publisher: arXiv preprint arXiv:2303.11701, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:O3NaXMp0MMsC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:GnPB-g6toBAC
   title: Multi-Semantic Interactive Learning for Object Detection
   authors:
@@ -724,23 +820,6 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:r0BpntZqJG4C
-  title: Hybrid Neural Network for Automatic Recovery of Elliptical Chinese Quantity
-    Noun Phrases.
-  authors:
-  - H Shi
-  - W Qu
-  - T Wei
-  - J Zhou
-  - Y Long
-  - Y Gu
-  - B Li
-  publisher: Computers, Materials & Continua 69 (3), 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:r0BpntZqJG4C
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: byG9xLMAAAAJ:bEWYMUwI8FkC
   title: "\u4E2D\u6587\u8BCD\u8BED\u79BB\u5408\u73B0\u8C61\u8BC6\u522B\u7814\u7A76\
     \ (Research on Recognition of the Separation and Reunion Phenomena of Words in\
@@ -792,35 +871,20 @@
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: byG9xLMAAAAJ:RHpTSmoSYBkC
-  title: A Survey of Chinese Anaphora Resolution
+- id: byG9xLMAAAAJ:r0BpntZqJG4C
+  title: Hybrid Neural Network for Automatic Recovery of Elliptical Chinese Quantity
+    Noun Phrases
   authors:
-  - S Li
+  - H Shi
   - W Qu
   - T Wei
   - J Zhou
+  - Y Long
   - Y Gu
   - B Li
-  publisher: "Artificial Intelligence and Security: 7th International Conference,\
-    \ ICAIS \u2026, 2021"
+  publisher: Computers, Materials & Continua 69 (3), 4113-4127, 2021
   date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:RHpTSmoSYBkC
-  gsid: byG9xLMAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: byG9xLMAAAAJ:_Qo2XoVZTnwC
-  title: A Review on Named Entity Recognition in Chinese Medical Text
-  authors:
-  - L Zhou
-  - W Qu
-  - T Wei
-  - J Zhou
-  - Y Gu
-  - B Li
-  publisher: "Advances in Artificial Intelligence and Security: 7th International\
-    \ \u2026, 2021"
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:_Qo2XoVZTnwC
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=byG9xLMAAAAJ&pagesize=100&citation_for_view=byG9xLMAAAAJ:r0BpntZqJG4C
   gsid: byG9xLMAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
